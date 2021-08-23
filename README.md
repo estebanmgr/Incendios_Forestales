@@ -13,19 +13,19 @@ Faroudja ABID et al. , â€œPredicting Forest Fire in Algeria using Data Minin
 # Explicación de datos utilizados
 El dataset consta de 122 filas y 14 columnas (o variables):
 
-Day: día del mes que se tomó la muestra de datos
-Month: Mes del año en el que se tomaron las muestras
-Year: Año en el que se tomaron los datos
-Temperature: Temperatura registrada (Medida en grados C)
-RH: Humedad relativa registrada
-WS: Velocidad del viento
-Rain: Ocurrencia de lluvia en la zona
-FFMC: Codigo de humedad del combustible fino muerto
-DMC: Humedad del mantillo
-DC: Indice de sequía
-ISI: Evalúa el riesgo de propagación de un incendio forestal y su peligrosidad
-BUI: Cantidad de combustible disponible para que arder.
-FWI: Riesgo en caso de ocurrencia de un incendio forestal (vá del 0 al 100)
+Day: día del mes que se tomó la muestra de datos  
+Month: Mes del año en el que se tomaron las muestras   
+Year: Año en el que se tomaron los datos   
+Temperature: Temperatura registrada (Medida en grados C)   
+RH: Humedad relativa registrada   
+WS: Velocidad del viento   
+Rain: Ocurrencia de lluvia en la zona   
+FFMC: Codigo de humedad del combustible fino muerto   
+DMC: Humedad del mantillo   
+DC: Indice de sequía   
+ISI: Evalúa el riesgo de propagación de un incendio forestal y su peligrosidad   
+BUI: Cantidad de combustible disponible para que arder.   
+FWI: Riesgo en caso de ocurrencia de un incendio forestal (vá del 0 al 100)   
 Classes: Ocurrencia o no de un incendio.
 
 ## Limpiando el Dataset
